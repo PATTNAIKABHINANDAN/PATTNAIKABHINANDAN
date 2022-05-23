@@ -1,0 +1,103 @@
+<!doctype>
+<html>
+<head><title >BEST ONLINE SERVICES</title></head>
+<link rel="stylesheet" href="css1.css">
+<link rel="stylesheet" media="screen and (max-width:830px)" href="css/phone.css">
+<link href="https://fonts.googleapis.com/css2?family=Rochester&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Rochester&display=swap" rel="stylesheet">
+<body> 
+
+<nav id="navbar">
+<div id="logo">
+<img src="logo5.png">
+</div>
+
+<ul>
+<li class="item"><a href="#home">Home</a></li>
+<li class="item"><a href="#services-container">Services</a></li>
+<li class="item"><a href="#client-section">About us</a></li>
+<li class="item"><a href="#contact">Contact us</a></li>
+<li class="item"><a></a></li>
+</ul>
+</nav>
+
+<section id="home">
+<h1 class="h-primary" text-align:center>Welcome to MyOnlineMeal</h1>
+<p text-align:center>TASTY!DELICIOUS!</p>
+<p text-align:center>EASY FOOD DELIVERY IN ONE GO</p>
+<button class="btn" text-align=center>Place Order</button> 
+
+
+
+<section id="services-container">
+<h2 class="h-primary center" text-align:center>Our Services</h2>
+<div id="services">
+<div class="box">
+<img src="background.jpg" alt="">
+<h3 class="h-secondary center">Food Ordering</h3>
+<p text-align:center>kuygib jhgug jhgutf jhgviutgf jhgu</p>
+</div>
+<div class="box">
+<img src="img2.jpg" alt="">
+<h3 class="h-secondary center">Take away</h3>
+<p text-align:center>kuygib jhgug jhgutf jhgviutgf jhgu</p>
+</div>
+<div class="box">
+<img src="img3.jpg" alt="">
+<h3 class="h-secondary center">Table Booking</h3>
+<p text-align:center text-color:black>kuygib jhgug jhgutf jhgviutgf jhgu</p>
+</div>
+</div>
+
+
+
+
+<section id="client-section">
+<h4 class="h-primary center">Our Clients</h4>
+<div id="clients">
+<div class="client-item">
+<img src="logo1.png">
+<img src="logo2.png">
+<img src="logo3.png">
+<img src="logo4.png">
+</div>
+</div>
+
+
+<section id="contact">
+<h1 class="h-primary center" text-align:center>CONTACT US</h1>
+<div id="contact-box">
+<form action="">
+<div class=""form-group">
+<label for="name">Name:</label>
+<input type="text name="name" id="name" placeholder="enter ur name">
+</div>
+<div class=""form-group">
+<label for="email">Email:</label>
+<input type="text name="name" id="name" placeholder="email">
+</div>
+<div class=""form-group">
+<label for="Address">Address:</label>
+<input type="text name="name" id="Address" placeholder="enter ur Address">
+</div>
+<div class=""form-group">
+<label for="Phone Number">Phone Number:</label>
+<input type="text name="name" id="Phone Number" placeholder="enter ur Phone Number">
+</div>
+</form>
+</div>
+
+
+<footer>
+<div class="center">
+Copyright &copy;www.MyOnlineMeal.com All rights reserved!
+</div>
+</footer>
+</section>
+</section>
+</section>
+</section>
+
+
+</body>
+</html>

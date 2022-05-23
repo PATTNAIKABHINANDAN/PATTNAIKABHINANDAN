@@ -1,0 +1,12 @@
+#home::before{
+content:"";
+position:absolute;
+background-image:url('img1.jpg');
+height:71%;
+width:80%;
+z-index:-1;
+opacity:0.8;
+}
+body{
+background-color:yellow;
+}
